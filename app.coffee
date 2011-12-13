@@ -8,4 +8,4 @@
 **
 ##
 
-var node_modules = "/Users/Dan McGinn-Combs/AppData/Roaming/NPM/node_modules/";
+node_modules = "/Users/Dan McGinn-Combs/AppData/Roaming/NPM/node_modules/"
